@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-//人物信息（分支管理策略）
+//人物信息（临时工作保存）
 public class Person : IComparable<Person> {
 
     private string name;
