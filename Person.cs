@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 //人物信息（临时工作保存）
 public class Person : IComparable<Person> {
-
+//Clone远程dev修改
     private string name;
     private int age;
 	private string address;
