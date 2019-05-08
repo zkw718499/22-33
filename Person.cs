@@ -6,6 +6,8 @@ using System;
 public class Person : IComparable<Person> {
 	//我的dev修改
 	//Clone远程dev修改
+	//合并后的第一次修改
+	//合并后的第二次修改
     private string name;
     private int age;
 	private string address;
